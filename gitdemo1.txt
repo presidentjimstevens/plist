@@ -1,0 +1,4 @@
+1. first line
+staged
+2. second line
+
